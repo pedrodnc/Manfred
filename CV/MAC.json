@@ -1,0 +1,341 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pedro Pablo",
+      "surnames": "Muñoz Peñafiel",
+      "title": "Software Developer -VIEWNEXT",
+      "description": "I started in the world of computers when I was very young, it was something that interested me. Years went by and my interest continued to grow as new technologies continued to emerge.   After playing several video games I was curious to know how they were made and that's when I discovered the world of programming, then I started to learn by myself and to do my specific studies to specialize in one part of the IT sector, the back-end.   And that's what I am, a junior java back-end developer (for now) with future projection and desire to keep learning.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/13/a0e034d9-be71-4e0a-9b6f-37932581695c_30c5b317-a6b7-47a5-9.jpeg",
+        "alt": "30c5b317-a6b7-47a5-9ede-efb6e2d4cffb.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pedromunozpenafiel/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "VIEWNEXT"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2023-08-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AMBERGREEN SL"
+        },
+        "roles": [
+          {
+            "name": "Java backend developer",
+            "startDate": "2022-07-01",
+            "finishDate": "2023-08-01",
+            "challenges": [
+              {
+                "description": "As a software developer, my role involves developing and maintaining one of our existing software projects in the field of document management. I am responsible for taking care of releases, bug fixing, code refactoring, and testing routines as part of my day-to-day responsibilities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ANDALUZA DE TRAMITACIONES Y GESTIONES SA"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "I've been working with Oracle as database engine using PL/SQL, also Visual Studio 2019 as IDE to develop with ASP.NET, JavaScript and Bootstrap, HTML and CSS for the front end."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Prodigia Consultores, s.l. - Marketing Digital"
+        },
+        "roles": [
+          {
+            "name": "Web Maintenance Manager",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Degree Completion Internship. I learned how to use new technologies. I did a course on Drupal 8/9 Site Building as a CMS for web development, I also got to know the version control system (GIT) and application deployment system in containers (Docker). All this working on Linux."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Cloudwatch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Degree in Multiplatform Application Development",
+        "startDate": "2018-01-01",
+        "institution": {
+          "name": "CENEC Málaga"
+        },
+        "finishDate": "2021-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pedromunozpenafiel/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Research Developer"
+      ]
+    },
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Jenkins",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
