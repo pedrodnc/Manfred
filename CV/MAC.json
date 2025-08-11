@@ -75,11 +75,12 @@
       },
       {
         "organization": {
-          "name": "AMBERGREEN SL"
+          "name": "AMBERGREEN SL",
+          "URL": "https://ambergreen.eu/home/?lang=es"
         },
         "roles": [
           {
-            "name": "Java backend developer",
+            "name": "Java Junior Developer",
             "startDate": "2022-07-01",
             "finishDate": "2023-08-01",
             "challenges": [
