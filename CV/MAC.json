@@ -32,12 +32,44 @@
     "jobs": [
       {
         "organization": {
-          "name": "VIEWNEXT"
+          "name": "VIEWNEXT",
+          "URL": "https://www.viewnext.com/"
         },
         "roles": [
           {
-            "name": "Java Developer",
-            "startDate": "2023-08-01"
+            "name": "Java Backend Developer",
+            "startDate": "2023-08-01",
+            "challenges": [
+              {
+                "description": "I have worked on several projects migrating Java applications hosted on WAS (IBM WebSphere Application Server) to Liberty (IBM WebSphere Liberty), as well as projects migrating applications to a cloud environment, with the corresponding maintenance and implementations requested by the client.\n\nI have acquired solid knowledge of application containment and deployment in cloud environments and CI/CD (Docker and Kubernetes, among others), and I have improved my Java development experience by mainly performing backend work, such as migrating the persistence of one of the main applications, and some frontend tasks, such as migrating all requests made from the frontend to jQuery, all accompanied by the corresponding tests.\n\nDuring this time, I have worked with agile methodologies, mainly Scrum and, to a lesser extent, waterfall. I have also participated in international projects, which has allowed me to improve my understanding and fluency in English."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTTP4s",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
@@ -283,11 +315,43 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Degree in Multiplatform Application Development",
-        "startDate": "2018-01-01",
+        "startDate": "2018-09-01",
         "institution": {
-          "name": "CENEC Málaga"
+          "name": "CENEC Málaga",
+          "description": "Mobile Development:\nAndroid, Java, Kotlin, LibGDX, Unity.\n\nSystems:\n-Linux\nRelational and no relational databases:\n-MySQL, MongoDB ,Oracle, PLSQL, MariaDB.\n\nWeb programing:\n-HTML5, CSS, JavaScript, PHP, Angular.\n\nData access:\n-XML, JSON, Hibernate\n\nInterface development:\n-Swing, JavaFX, C#, WPF, SQL Server",
+          "URL": "https://cenecmalaga.com/"
         },
-        "finishDate": "2021-01-01"
+        "finishDate": "2021-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Maven",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
