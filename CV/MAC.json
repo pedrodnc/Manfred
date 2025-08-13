@@ -394,6 +394,10 @@
         {
           "name": "MySQL",
           "type": "technology"
+        },
+        {
+          "name": "Postman",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
