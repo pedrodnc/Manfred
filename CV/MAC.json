@@ -396,6 +396,10 @@
           "type": "technology"
         },
         {
+          "name": "IBM Cloud",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
