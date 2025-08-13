@@ -398,6 +398,10 @@
         {
           "name": "Postman",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
