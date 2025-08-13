@@ -388,6 +388,10 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "Maven",
           "type": "technology"
         },
