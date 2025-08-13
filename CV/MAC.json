@@ -412,6 +412,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "DevOps & Infrastructure & SRE",
