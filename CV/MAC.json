@@ -374,6 +374,10 @@
         {
           "name": "Artifactory",
           "type": "technology"
+        },
+        {
+          "name": "Azure DevOps",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
