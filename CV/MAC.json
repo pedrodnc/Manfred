@@ -378,6 +378,10 @@
         {
           "name": "Azure DevOps",
           "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
