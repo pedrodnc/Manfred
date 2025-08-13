@@ -288,12 +288,6 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Spring",
           "type": "technology"
         }
@@ -475,7 +469,7 @@
         "type": "technology"
       },
       {
-        "name": "SQL",
+        "name": "Maven",
         "type": "technology"
       }
     ],
