@@ -380,6 +380,10 @@
           "type": "technology"
         },
         {
+          "name": "Batch",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
