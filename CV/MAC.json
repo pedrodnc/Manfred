@@ -370,6 +370,10 @@
         {
           "name": "API",
           "type": "technology"
+        },
+        {
+          "name": "Artifactory",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
