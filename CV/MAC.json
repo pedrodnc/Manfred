@@ -366,6 +366,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "DevOps & Infrastructure & SRE",
