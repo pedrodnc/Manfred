@@ -380,11 +380,19 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
         {
           "name": "Maven",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
           "type": "technology"
         }
       ],
